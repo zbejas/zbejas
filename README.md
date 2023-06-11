@@ -16,7 +16,9 @@ Whenever I have some free time, I love diving into different projects and playin
 
 ### What are your projects?
 
-I mostly work on personal projects that I don't make public. However, the ones I do release are usually at least (almost) complete. I also enjoy tinkering with Linux, so a lot of my random projects involve Linux server or desktop tools.
+I mostly work on personal projects that I don't make public. However, the ones I do release are usually at least (almost) complete. I also enjoy tinkering with Linux, so a lot of my random projects involve Linux server or desktop tools. 
+
+You can check my repositories [here](https://github.com/zbejas?tab=repositories).
 
 ### Want to work together?
 
