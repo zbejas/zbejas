@@ -30,7 +30,4 @@ Expert at starting projects. Finishing them? Still working on that.
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-
-...there might be more, I'm too lazy to keep this up to date
-
 </div>
